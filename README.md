@@ -12,6 +12,8 @@ A sample e-commerce site.
 * [Tests](#tests)
 * [Questions](#questions)
 
+![shopshop](https://user-images.githubusercontent.com/62676730/100020217-49b5e800-2d94-11eb-8adc-8132268c851f.PNG)
+
 ## Installation
 
 Clone the repo and install all dependencies with 'npm i'
